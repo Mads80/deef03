@@ -56,8 +56,5 @@ Link to one of many Reddit threads on the topic: [Is Masgrave really safe?](http
 ## Alternative Solutions
 
 If you're not totally sold on pirating Windows, you might want to consider alternative solutions, like the Fedora Workstation with the GNOME desktop environment. [Learn more about Fedora Workstation](https://getfedora.org/workstation/).
-
 I've turned my Lenovo ThinkPad T14 into a Fedora Workstation, and it runs incredibly well.
-{{< figure src="img/fedora-workstation-logo.png" alt="BFedora Workstation" href="https://getfedora.org/workstation/" nozoom="true" >}}
-
 Other alternatives include the [Ubuntu](https://ubuntu.com/) desktop environment, or Linux Mint [Linux Mint](https://linuxmint.com/).
