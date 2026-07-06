@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://deef.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-07-05T22:58:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://deef.dev/posts/massgrave/</loc>
+    <loc>http://localhost:1313/posts/massgrave/</loc>
     <lastmod>2026-07-05T22:58:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://deef.dev/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-07-05T22:58:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://deef.dev/posts/homelab/</loc>
+    <loc>http://localhost:1313/posts/homelab/</loc>
     <lastmod>2026-06-26T12:56:50+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://deef.dev/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2026-06-25T15:40:26+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
