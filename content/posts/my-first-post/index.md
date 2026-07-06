@@ -8,4 +8,4 @@ tags = ['hugo', 'blowfish']
 
 This is my first post. Website is made with [Hugo](https://gohugo.io) and the theme is [Blowfish](https://github.com/dirkolbrich/blowfish).
 
-I used this very handy website to generate the [Favicon.io](https://favicon.io).
+I used this very handy website to generate the [Favicon.io](https://favicon.io) and logo for the website.
