@@ -5,7 +5,7 @@ title = 'Enter the Massgrave'
 tags = ['massgrave', 'windows', 'win11', 'fedora', 'linux']
 +++
 
->Massgrave is a grey area, for sure, but let's be real. *Nobody* likes Windows, and even fewer likes paying for it. Enter the Massgrave.
+Let's be real. *Nobody* likes Windows, and even fewer likes paying for it. Enter the Massgrave.
 >![Pirate Flag](img/pirate-flag.png)
 
 ## Howto
