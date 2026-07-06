@@ -6,7 +6,7 @@ tags = ['seedbox', 'piracy', 'whatbox', 'vpn']
 showAuthor = false
 +++
 
-While on the topic of piracy *(see my previous post about [Massgrave](/posts/massgrave))*, I wan't to talk a little bit about seedboxes, and why I prefer to have on over adding the ARR stack to my homelab. Short answer is VPN and HDD prices.
+While on the topic of piracy *([see my previous post about Massgrave](/posts/massgrave))*, I wan't to talk a little bit about seedboxes, and why I prefer to have on over adding the ARR stack to my homelab. Short answer is VPN and HDD prices.
 
 I decided to go with [Whatbox](https://whatbox.ca/) for no particular reason other than I liked their approach and their website design. I really appreciate a simple design. A bit like [Porkbun](https://porkbun.com/) where I bought my latest domains, but that is a different story.
 
@@ -45,3 +45,5 @@ What I currently have set up on my seedbox is the following:
 {icon="sonarr"}
 
 Makes it easy to manage your media collection.
+
+# WIP
