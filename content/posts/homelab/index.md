@@ -21,7 +21,7 @@ Personal documentation for my homelab infrastructure. This documentation contain
 > - USW Flex Mini
 > - U7 Lite AP
 
-{{< carousel images="gallery/*" aspectRatio="1-1" interval="0" >}}
+{{< carousel images="gallery/*" aspectRatio="1-1" interval="0" captions="{01.jpg:Front view,02.jpg:Rear view}" >}}
 
 ---
 
