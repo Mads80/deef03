@@ -17,7 +17,7 @@ weight = 10
 
 [[main]]
 name = "About"
-pageRef = "/about/"
+pageRef = "about"
 weight = 20
 
 #[[main]]
