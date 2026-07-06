@@ -2,7 +2,7 @@
 date = '2026-07-05T22:58:41+02:00'
 draft = false
 title = 'Enter the Massgrave'
-tags = ['massgrave', 'windows', 'win11']
+tags = ['massgrave', 'windows', 'win11', 'fedora', 'linux']
 +++
 
 >Massgrave is a grey area, for sure, but let's be real. *Nobody* likes Windows, and even fewer likes paying for it. Enter the Massgrave.
@@ -55,6 +55,6 @@ Link to one of many Reddit threads on the topic: [Is Masgrave really safe?](http
 
 ## Alternative Solutions
 
-If you're not totally sold on pirating Windows, you might want to consider alternative solutions, like the Fedora Workstation with the GNOME desktop environment. [Learn more about Fedora Workstation](https://getfedora.org/workstation/).
-I've turned my Lenovo ThinkPad T14 into a Fedora Workstation, and it runs incredibly well.
-Other alternatives include the [Ubuntu](https://ubuntu.com/) desktop environment, or Linux Mint [Linux Mint](https://linuxmint.com/).
+If you're not totally sold on pirating Windows, you might want to consider alternative solutions, like the [Fedora Workstation](https://getfedora.org/workstation/). with the GNOME desktop environment. The GNOME desktop environment is very clean and modern, and it runs incredibly well.
+
+Other alternatives include the [Ubuntu desktop environment](https://ubuntu.com/), or [Linux Mint](https://linuxmint.com/). Both are very popular and have a large community of users.
