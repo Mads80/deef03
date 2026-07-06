@@ -41,9 +41,7 @@ What I currently have set up on my seedbox is the following:
 {icon="radarr"}
 
 > [!NOTE] **Sonarr**
-> [A Personal Video Recorder for Usenet and BitTorrent users](https://sonarr.tv/)
+> [TV-show collection manager for Usenet and BitTorrent users](https://sonarr.tv/)
 {icon="sonarr"}
-
-Makes it easy to manage your media collection.
 
 # WIP
