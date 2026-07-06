@@ -21,12 +21,12 @@ Personal documentation for my homelab infrastructure. This documentation contain
 > - USW Flex Mini
 > - U7 Lite AP
 
-![My Homelab](img/my-homelab-3.jpg "My Homelab")
-*Work in progress*
+{{< carousel images="gallery/*" aspectRatio="1-1" interval="0" >}}
 
 ---
 
 ## Network
+
 >Gateway/router/firewall: `192.168.1.1`
 
 | Segment | Hostname | IP / Port | Function / Type |
