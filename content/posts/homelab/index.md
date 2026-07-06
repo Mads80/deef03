@@ -38,8 +38,8 @@ Personal documentation for my homelab infrastructure. This documentation contain
 | **VLAN 1** | port.deef.dk | `192.168.1.132:9443` | Docker Portainer |
 | **VLAN 1** | moode.deef.dk | `192.168.1.248:80` | Moode Audio |
 | **VLAN 1** | nginx.deef.dk | `192.168.1.204:81` | Proxy Manager |
-| **VLAN 1** | pi-hole.deef.dk | `192.168.1.127:80` | Ad Blocking |
-| **VLAN 1** | pi-hole2.deef.dk | `192.168.1.130:80` | Ad Blocking |
+| **VLAN 1** | pihole.deef.dk | `192.168.1.127:80` | Ad Blocking |
+| **VLAN 1** | pihole2.deef.dk | `192.168.1.130:80` | Ad Blocking |
 | **VLAN 10** | - | `192.168.10.204` | IoT Device |
 | **VLAN 10** | - | `192.168.10.104` | IoT Device |
 | **VLAN 10** | - | `192.168.10.44` | IoT Device |
