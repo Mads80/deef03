@@ -14,16 +14,17 @@ title = "~/deef.dev"
   # description = "My awesome website"
   copyright = "© {{< year >}} deef.dev" # Se layout/shortcodes/year.html
 
-#[params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
+[params.author]
+   name = "Mads"
+   email = "deef.deef@gmail.com"
+   image = "img/profile.png"
+   imageQuality = 96
+   headline = "I'm only human"
+   bio = "~/This is my bio."
+   links = [
+     { email = "mailto:deef.deef@gmail.com" },
+     { instagram = "https://instagram.com/mads2o5" },
+     { github = "https://github.com/mads80" }
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -39,7 +40,6 @@ title = "~/deef.dev"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { keyoxide = "https://keyoxide.org/URI" },
@@ -76,4 +76,4 @@ title = "~/deef.dev"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+]

@@ -6,6 +6,8 @@
     <description>Recent content in Hugo on ~/deef.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>deef.deef@gmail.com (Mads)</managingEditor>
+    <webMaster>deef.deef@gmail.com (Mads)</webMaster>
     <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
     <lastBuildDate>Thu, 25 Jun 2026 15:40:26 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +15,9 @@
       <title>My First Post</title>
       <link>https://deef.dev/posts/my-first-post/</link>
       <pubDate>Thu, 25 Jun 2026 15:40:26 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post. Website is made with &lt;a href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Hugo&lt;/a&gt; and the theme is &lt;a href=&#34;https://github.com/dirkolbrich/blowfish&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Blowfish&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I used this very handy website to generate the &lt;a href=&#34;https://favicon.io&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Favicon.io&lt;/a&gt; and logo for the website.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my first post. Website is made with &lt;a href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Hugo&lt;/a&gt; and the theme is &lt;a href=&#34;https://github.com/dirkolbrich/blowfish&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Blowfish&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I used this very handy website to generate the &lt;a href=&#34;https://favicon.io&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Favicon.io&lt;/a&gt; and logo for the website.&lt;/p&gt;&#xA;&lt;p&gt;Very cool website with lots of &lt;a href=&#34;https://dashboardicons.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;dashboardicons.com&lt;/a&gt;&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://deef.dev/posts/my-first-post/featured.png" />
     </item>
     

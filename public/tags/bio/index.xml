@@ -2,20 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bio on ~/deef.dev</title>
-    <link>https://deef.dev/tags/bio/</link>
+    <link>http://localhost:1313/tags/bio/</link>
     <description>Recent content in Bio on ~/deef.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>youremail@example.com (Mads)</managingEditor>
+    <webMaster>youremail@example.com (Mads)</webMaster>
     <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 19:00:23 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jul 2026 19:00:23 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/bio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://deef.dev/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 05 Jul 2026 19:00:23 +0200</pubDate>
-      
-      <guid>https://deef.dev/about/</guid>
-      <description>&lt;p&gt;Hello! My name is Mads. I&amp;rsquo;m 46 years old and I live in Denmark.&lt;/p&gt;&#xA;&lt;p&gt;I work with computers. I&amp;rsquo;m making this website mostly to learn about hugo and markdown. I wil be updating the posts as I learn more.&#xA;Take a look &lt;a href=&#34;https://deef.dev/posts/my-first-post/&#34; &gt;My First Post&lt;/a&gt; where I will write about hugo and markdown.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re interested in homelabbing, take a look at my &lt;a href=&#34;https://deef.dev/posts/homelab/&#34; &gt;homelabbing&lt;/a&gt; post.&lt;/p&gt;</description>
+      <author>youremail@example.com (Mads)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I work with computers. I&amp;rsquo;m making this website mostly to learn about hugo and markdown. I wil be updating the posts as I learn more.&#xA;Take a look &lt;a href=&#34;http://localhost:1313/posts/my-first-post/&#34; &gt;My First Post&lt;/a&gt; where I will write about hugo and markdown.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re interested in homelabbing, take a look at my &lt;a href=&#34;http://localhost:1313/posts/homelab/&#34; &gt;homelabbing&lt;/a&gt; post.&lt;/p&gt;</description>
       
     </item>
     

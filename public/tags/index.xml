@@ -6,14 +6,56 @@
     <description>Recent content in Tags on ~/deef.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>deef.deef@gmail.com (Mads)</managingEditor>
+    <webMaster>deef.deef@gmail.com (Mads)</webMaster>
     <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 22:58:41 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 16:14:49 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Piracy</title>
+      <link>https://deef.dev/tags/piracy/</link>
+      <pubDate>Mon, 06 Jul 2026 16:14:49 +0200</pubDate>
+      <author>deef.deef@gmail.com (Mads)</author>
+      <guid>https://deef.dev/tags/piracy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seedbox</title>
+      <link>https://deef.dev/tags/seedbox/</link>
+      <pubDate>Mon, 06 Jul 2026 16:14:49 +0200</pubDate>
+      <author>deef.deef@gmail.com (Mads)</author>
+      <guid>https://deef.dev/tags/seedbox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vpn</title>
+      <link>https://deef.dev/tags/vpn/</link>
+      <pubDate>Mon, 06 Jul 2026 16:14:49 +0200</pubDate>
+      <author>deef.deef@gmail.com (Mads)</author>
+      <guid>https://deef.dev/tags/vpn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Whatbox</title>
+      <link>https://deef.dev/tags/whatbox/</link>
+      <pubDate>Mon, 06 Jul 2026 16:14:49 +0200</pubDate>
+      <author>deef.deef@gmail.com (Mads)</author>
+      <guid>https://deef.dev/tags/whatbox/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Fedora</title>
       <link>https://deef.dev/tags/fedora/</link>
       <pubDate>Sun, 05 Jul 2026 22:58:41 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/fedora/</guid>
       <description></description>
       
@@ -23,7 +65,7 @@
       <title>Linux</title>
       <link>https://deef.dev/tags/linux/</link>
       <pubDate>Sun, 05 Jul 2026 22:58:41 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/linux/</guid>
       <description></description>
       
@@ -33,7 +75,7 @@
       <title>Massgrave</title>
       <link>https://deef.dev/tags/massgrave/</link>
       <pubDate>Sun, 05 Jul 2026 22:58:41 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/massgrave/</guid>
       <description></description>
       
@@ -43,7 +85,7 @@
       <title>Win11</title>
       <link>https://deef.dev/tags/win11/</link>
       <pubDate>Sun, 05 Jul 2026 22:58:41 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/win11/</guid>
       <description></description>
       
@@ -53,28 +95,8 @@
       <title>Windows</title>
       <link>https://deef.dev/tags/windows/</link>
       <pubDate>Sun, 05 Jul 2026 22:58:41 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/windows/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://deef.dev/tags/about/</link>
-      <pubDate>Sun, 05 Jul 2026 19:00:23 +0200</pubDate>
-      
-      <guid>https://deef.dev/tags/about/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bio</title>
-      <link>https://deef.dev/tags/bio/</link>
-      <pubDate>Sun, 05 Jul 2026 19:00:23 +0200</pubDate>
-      
-      <guid>https://deef.dev/tags/bio/</guid>
       <description></description>
       
     </item>
@@ -83,7 +105,7 @@
       <title>Dns</title>
       <link>https://deef.dev/tags/dns/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/dns/</guid>
       <description></description>
       
@@ -93,7 +115,7 @@
       <title>Home Assistant</title>
       <link>https://deef.dev/tags/home-assistant/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/home-assistant/</guid>
       <description></description>
       
@@ -103,7 +125,7 @@
       <title>Homelab</title>
       <link>https://deef.dev/tags/homelab/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/homelab/</guid>
       <description></description>
       
@@ -113,7 +135,7 @@
       <title>Nginx</title>
       <link>https://deef.dev/tags/nginx/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/nginx/</guid>
       <description></description>
       
@@ -123,7 +145,7 @@
       <title>Pi-Hole</title>
       <link>https://deef.dev/tags/pi-hole/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/pi-hole/</guid>
       <description></description>
       
@@ -133,7 +155,7 @@
       <title>Proxmox</title>
       <link>https://deef.dev/tags/proxmox/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/proxmox/</guid>
       <description></description>
       
@@ -143,7 +165,7 @@
       <title>Raspberry Pi</title>
       <link>https://deef.dev/tags/raspberry-pi/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/raspberry-pi/</guid>
       <description></description>
       
@@ -153,7 +175,7 @@
       <title>Reverse Proxy</title>
       <link>https://deef.dev/tags/reverse-proxy/</link>
       <pubDate>Fri, 26 Jun 2026 12:56:50 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/reverse-proxy/</guid>
       <description></description>
       
@@ -163,7 +185,7 @@
       <title>Blowfish</title>
       <link>https://deef.dev/tags/blowfish/</link>
       <pubDate>Thu, 25 Jun 2026 15:40:26 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/blowfish/</guid>
       <description></description>
       
@@ -173,7 +195,7 @@
       <title>Hugo</title>
       <link>https://deef.dev/tags/hugo/</link>
       <pubDate>Thu, 25 Jun 2026 15:40:26 +0200</pubDate>
-      
+      <author>deef.deef@gmail.com (Mads)</author>
       <guid>https://deef.dev/tags/hugo/</guid>
       <description></description>
       

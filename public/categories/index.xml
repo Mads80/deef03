@@ -6,6 +6,8 @@
     <description>Recent content in Categories on ~/deef.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>deef.deef@gmail.com (Mads)</managingEditor>
+    <webMaster>deef.deef@gmail.com (Mads)</webMaster>
     <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
     <atom:link href="https://deef.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     

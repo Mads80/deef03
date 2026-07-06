@@ -2,10 +2,11 @@
 date = '2026-07-05T22:58:41+02:00'
 draft = false
 title = 'Enter the Massgrave'
-tags = ['massgrave', 'windows', 'win11', 'fedora', 'linux']
+tags = ['massgrave', 'windows', 'win11', 'fedora', 'linux', 'piracy']
+showAuthor = false
 +++
 
-Let's be real. *Nobody* likes Windows, and even fewer likes paying for it. Enter the Massgrave.
+>Let's be real. *Nobody* likes Windows, and even fewer likes paying for it. Enter the Massgrave.
 >![Pirate Flag](img/pirate-flag.png)
 
 ## Howto

@@ -3,6 +3,7 @@ date = '2026-06-26T12:56:50+02:00'
 draft = false
 title = 'Homelabbing'
 tags = ['homelab', 'proxmox', 'raspberry pi', 'home assistant', 'pi-hole', 'reverse proxy', 'nginx', 'dns']
+showAuthor = false
 +++
 
 Personal documentation for my homelab infrastructure. This documentation contains a consolidated overview of infrastructure, network topology and links to installation scripts.

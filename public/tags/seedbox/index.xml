@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seedbox on ~/deef.dev</title>
+    <link>https://deef.dev/tags/seedbox/</link>
+    <description>Recent content in Seedbox on ~/deef.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>deef.deef@gmail.com (Mads)</managingEditor>
+    <webMaster>deef.deef@gmail.com (Mads)</webMaster>
+    <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
+    <lastBuildDate>Mon, 06 Jul 2026 16:14:49 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/seedbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seedbox</title>
+      <link>https://deef.dev/posts/seedbox/</link>
+      <pubDate>Mon, 06 Jul 2026 16:14:49 +0200</pubDate>
+      <author>deef.deef@gmail.com (Mads)</author>
+      <guid>https://deef.dev/posts/seedbox/</guid>
+      <description>&lt;p&gt;While on the topic of piracy &lt;em&gt;(see my previous post about &lt;a href=&#34;https://deef.dev/posts/massgrave/&#34; &gt;Massgrave&lt;/a&gt;)&lt;/em&gt;, I wan&amp;rsquo;t to talk a little bit about seedboxes, and why I prefer to have on over adding the ARR stack to my homelab. Short answer is VPN and HDD prices.&lt;/p&gt;&#xA;&lt;p&gt;I decided to go with &lt;a href=&#34;https://whatbox.ca/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Whatbox&lt;/a&gt; for no particular reason other than I liked their approach and their website design. I really appreciate a simple design. A bit like &lt;a href=&#34;https://porkbun.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Porkbun&lt;/a&gt; where I bought my latest domains, but that is a different story.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://deef.dev/posts/seedbox/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
