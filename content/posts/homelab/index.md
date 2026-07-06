@@ -75,16 +75,20 @@ Don't forget to assign `192.168.1.127` and `192.168.1.130` as the primary and se
 
 Adding the local DNS records to both pi-holes instances.
 ![Pi-hole local DNS Records](img/pi-local-dns.png "Pi-hole local DNS Records")
-*Notice the local DNS records all point to the Nginx Proxy Manager IP-address, which will handle the requests.*
 
-Having to maintain multiple pi-hole instances can be cumbersome, so I setup nebula-sync to sync the pi-hole configuration across both devices.
+> [!NOTE]
+> Notice the local DNS records all point to the Nginx Proxy Manager IP-address, which will handle the requests.
+
+Having to maintain multiple pi-hole instances can be cumbersome, so I setup [nebula-sync](https://github.com/lovelaze/nebula-sync) to sync the pi-hole configuration across both devices.
 
 On both pi-hole instances, configure an app password in the web interface and enable webserver.api.app_sudo.
 ![pihole-webinterface-api-add-app-password](img/pihole-webinterface-api-add-app-password.png "pihole-webinterface-api-add-app-password")
 ![pihole-webserver-api-app-sudo](img/pihole-webserver-api-app-sudo.png "pihole-webserver-api-app-sudo")
-*If you don't see the option, make sure you enable Expert Mode.*
 
-In Portainer, start by adding a new stack. Give it a name and paste the following YAML configuration.
+> [!TIP]
+> If you don't see the option, make sure you enable `Expert Mode`.
+
+In Portainer, add a new stack. Give it a name and paste the following YAML configuration.
 ```yaml
 ---
 services:
@@ -163,19 +167,19 @@ http:
 ## Resources
 - [Proxmox VE](https://www.proxmox.com/en/)
 - [Docker](https://www.docker.com/)
-  - [Docker Proxmox Helper Script](https://community-scripts.org/scripts/docker?id=docker)
+- [Docker Proxmox Helper Script](https://community-scripts.org/scripts/docker?id=docker)
 - [Home Assistant](https://www.home-assistant.io/)
-  - [HA Proxmox Helper Script](https://community-scripts.org/scripts/home-assistant?id=home-assistant)
+- [HA Proxmox Helper Script](https://community-scripts.org/scripts/home-assistant?id=home-assistant)
 - [nebula-sync](https://github.com/lovelaze/nebula-sync)
 - [Nginx Proxy Manager](https://nginxproxymanager.com/)
-  - [NPM Proxmox Helper Script](https://community-scripts.org/scripts/nginxproxymanager?id=nginxproxymanager)
+- [NPM Proxmox Helper Script](https://community-scripts.org/scripts/nginxproxymanager?id=nginxproxymanager)
 - [Pi-hole](https://pi-hole.net/)
-  - [Pi-hole Proxmox Helper Script](https://community-scripts.org/scripts/pihole?id=pihole)
+- [Pi-hole Proxmox Helper Script](https://community-scripts.org/scripts/pihole?id=pihole)
 
 ---
 
 ## Conclusion
 
-This post got a bit long, but having separated posts about my homelab just didn't make sense, so I decided to put everything in one post. I don't always write into detail, but I hope you find at least some of it useful.
+This post got a bit long, but having separated posts about my homelab just didn't make sense, so I decided to put everything in this single post. I don't always write into detail, but I hope you find at least some of it useful.
 
 I will continue to update this post as I make changes to my homelab. As we all know, the homelabbing never finishes. 😅

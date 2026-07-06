@@ -4,6 +4,7 @@ draft = false
 title = 'My First Post'
 showTableOfContents = false
 tags = ['hugo', 'blowfish']
+showAuthor = false
 +++
 
 This is my first post. Website is made with [Hugo](https://gohugo.io) and the theme is [Blowfish](https://github.com/dirkolbrich/blowfish).
