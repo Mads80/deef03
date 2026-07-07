@@ -10,7 +10,7 @@ showRelatedContent = true
 This is my first post. Website is made with [Hugo](https://gohugo.io) and the theme is [Blowfish](https://github.com/dirkolbrich/blowfish).
 I will be updating this post with stuff I learn along the way.
 
-Below is a short list of tools I used to develop this website.
+Below is a short list of tools I used to make this website.
 
 > [!NOTE] [Favicon.io](https://favicon.io)
 > I used this very handy website to generate logo and favicon.
