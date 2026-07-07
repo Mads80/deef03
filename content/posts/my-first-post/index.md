@@ -2,8 +2,9 @@
 date = '2026-06-25T15:40:26+02:00'
 draft = false
 title = 'My First Post'
-tags = ['hugo', 'blowfish', 'shortcodes', 'zed', 'html']
+tags = ['website', 'hugo', 'blowfish', 'shortcodes', 'zed', 'html']
 showAuthor = false
+showRelatedContent = true
 +++
 
 This is my first post. Website is made with [Hugo](https://gohugo.io) and the theme is [Blowfish](https://github.com/dirkolbrich/blowfish).

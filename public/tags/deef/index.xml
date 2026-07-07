@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deef on ~/deef.dev</title>
+    <link>http://localhost:1313/tags/deef/</link>
+    <description>Recent content in Deef on ~/deef.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>deef.deef@gmail.com (Mads)</managingEditor>
+    <webMaster>deef.deef@gmail.com (Mads)</webMaster>
+    <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
+    <atom:link href="http://localhost:1313/tags/deef/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
