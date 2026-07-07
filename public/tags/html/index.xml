@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on ~/deef.dev</title>
-    <link>https://deef.dev/tags/hugo/</link>
-    <description>Recent content in Hugo on ~/deef.dev</description>
+    <title>Html on ~/deef.dev</title>
+    <link>https://deef.dev/tags/html/</link>
+    <description>Recent content in Html on ~/deef.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>deef.deef@gmail.com (Mads)</managingEditor>
     <webMaster>deef.deef@gmail.com (Mads)</webMaster>
     <copyright>© {{&lt; year &gt;}} deef.dev</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 15:40:26 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 15:40:26 +0200</lastBuildDate><atom:link href="https://deef.dev/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My First Post</title>

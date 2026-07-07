@@ -23,6 +23,9 @@ Follow the prompts and the script will take care of the rest.
 >
 > Always double-check the URL before executing the command and verify the source is trustworthy when manually downloading files.
 
+> [!TIP]
+> You can install Windows without setting up an account. Hit `Shift + F10` during the installation process to bring up the command prompt and type `start ms-cxh:localonly`. This will immediately bypass the Microsoft Account requirement and open the local user creation screen.
+
 ---
 
 ## With that out of the way, what is Massgrave?
