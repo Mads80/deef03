@@ -20,11 +20,11 @@
   pageRef = "about"
   weight = 20
 
-#[[main]]
-#  identifier = "github"
-#  pre = "github"
-#  url = "https://github.com/mads80"
-#  weight = 30
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/mads80"
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
